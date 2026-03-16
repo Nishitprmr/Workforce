@@ -12,8 +12,6 @@ The purpose of this project is to practice **basic SQL operations**, including:
 * Data insertion
 * Data retrieval
 
-It is designed as a **beginner-friendly SQL practice project** for learning relational database concepts.
-
 ## Database Name
 
 `workforce_db`
